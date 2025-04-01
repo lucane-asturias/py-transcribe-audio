@@ -1,4 +1,3 @@
-```markdown
 # Audio Transcription Tool
 
 A Python script for transcribing audio files using Google Speech Recognition API.

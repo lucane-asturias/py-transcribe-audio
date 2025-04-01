@@ -1,0 +1,30 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.python-version
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output files
+output.txt
+/output_*.txt
+
+# Audio/video files
+*.wav
+*.mp4
+*.mp3
+
+# System files
+.DS_Store
+Thumbs.db
